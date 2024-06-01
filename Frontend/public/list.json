@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Science Book",
+    "title": "Theory of computation",
+    "price": 1100,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-6186.jpg?t=st=1717240934~exp=1717244534~hmac=014c84493bdd99fd5a16e0cece67ff95305eec787d5f5fa1046fd0cf947c54a3&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Devops",
+    "title": "Devops essentials",
+    "price": 2200,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-6186.jpg?t=st=1717240934~exp=1717244534~hmac=014c84493bdd99fd5a16e0cece67ff95305eec787d5f5fa1046fd0cf947c54a3&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Hindi Book",
+    "title": "Hindi language grammer",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-6186.jpg?t=st=1717240934~exp=1717244534~hmac=014c84493bdd99fd5a16e0cece67ff95305eec787d5f5fa1046fd0cf947c54a3&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Maths Book",
+    "title": "Calculus Computing deep dive",
+    "price": 500,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-6186.jpg?t=st=1717240934~exp=1717244534~hmac=014c84493bdd99fd5a16e0cece67ff95305eec787d5f5fa1046fd0cf947c54a3&w=740"
+  },
+  {
+    "id": 5,
+    "name": "Drama Book",
+    "title": "History of drama",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-6186.jpg?t=st=1717240934~exp=1717244534~hmac=014c84493bdd99fd5a16e0cece67ff95305eec787d5f5fa1046fd0cf947c54a3&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Science Book",
+    "title": "Neuroscience in detail",
+    "price": 800,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-6186.jpg?t=st=1717240934~exp=1717244534~hmac=014c84493bdd99fd5a16e0cece67ff95305eec787d5f5fa1046fd0cf947c54a3&w=740"
+  },
+  {
+    "id": 7,
+    "name": "language Book",
+    "title": "Traditional Lnaguage deep dive",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-6186.jpg?t=st=1717240934~exp=1717244534~hmac=014c84493bdd99fd5a16e0cece67ff95305eec787d5f5fa1046fd0cf947c54a3&w=740"
+  }
+]
